@@ -1,943 +1,376 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<rss version="2.0">
+<rss xmlns:ev="http://purl.org/rss/1.0/modules/event/" version="2.0">
   <channel>
     <title>Lincoln Theatre Events</title>
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 4 Oct 2026 23:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 5 Oct 2026 10:16:54 GMT</lastBuildDate>
     <item>
-      <title>American Aquarium Package (Feb 04)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:16:06 +0000</pubDate>
-      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/american-aquarium-package.jpeg"/>
+      <title>Jupiter Coyote w/ Opaline (2027-02-20)</title>
+      <link>https://lincolntheatre.com/event/jupiter-coyote-w-opaline/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/jupiter-coyote-w-opaline/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2027-02-20</ev:startdate>
+      <description><![CDATA[Jupiter Coyote:In the course of their 34 year history, Jupiter Coyote has played over five thousand shows, traveled everywhere and done just about everything a touring band can do. The innovative group has independently sold over a million CDs, tens of thousands of downloads, and who knows how many bootlegs they cut loose to fans for free. JC is brand name, and a pioneering cornerstone in the jam band scene. They have been called the new twist in southern rock and they deliver it with a relaxed, worldly view. Their sound has been labeled “Mountain Rock” — a mixture of Southern Appalachian boogie, bluegrass-infused, funk-rock. The group traces its roots to Brevard, N.C., where childhood friends Matthew Mayes (guitar, guijo, vocals) and John Felty (vocals, guitars) decided in 1988 to pursue a career in music. The duo headed to Macon, Ga., where they joined forces with drummer Gene Bass and bassist Sanders Brightwell. Steve Trismen (vocals, fiddle) joined the fold in 1999. A native of Boulder, Colo., Trismen’s playing melded neatly into the band’s sound and gave Coyote a new on-stage dynamic. Noel Felty took over for Bass on drums in 2001. Most recently, long-time JC sidekick John Meyer was added on lead guitar. Meyer is also the person who came up with the name Jupiter Coyote back when the band was first starting in Macon, Ga.   There is no band that really sounds like Jupiter Coyote. They have a guijo (banjo neck, Stratocaster body) an incredible fiddle player, and two fantastic slide guitar players.     ]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/jupiter-coyote-w-opaline.jpeg"/>
     </item>
     <item>
-      <title>American Aquarium Package (Feb 04)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:16:06 +0000</pubDate>
-      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/american-aquarium-package.jpeg"/>
+      <title>Weekend Excursion w/ Runaway Cab (2027-01-23)</title>
+      <link>https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2027-01-23</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/weekend-excursion-w-runaway-cab-1.jpeg"/>
     </item>
     <item>
-      <title>THE MOVEMENT With special guest Mike Love (Mar 11)</title>
-      <link>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:15:42 +0000</pubDate>
-      <eventDate>Thu, 11 Mar 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/the-movement-with-special-guest-mike-love.jpeg"/>
+      <title>Panic Stricken (2027-01-22)</title>
+      <link>https://lincolntheatre.com/event/panic-stricken/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/panic-stricken/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2027-01-22</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/panic-stricken.jpeg"/>
     </item>
     <item>
-      <title>THE MOVEMENT With special guest Mike Love (Mar 11)</title>
-      <link>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 29 Sep 2026 18:15:42 +0000</pubDate>
-      <eventDate>Thu, 11 Mar 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/the-movement-with-special-guest-mike-love.jpeg"/>
+      <title>Donna The Buffalo (2027-01-09)</title>
+      <link>https://lincolntheatre.com/event/donna-the-buffalo/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/donna-the-buffalo/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2027-01-09</ev:startdate>
+      <description><![CDATA[Donna The Buffalo is not just a band, rather one might say that Donna The Buffalo has become a lifestyle for its members and audiences. Since 1989, the roots rockers have played thousands of shows and countless festivals including Bonnaroo, Newport Folk Festival, Telluride, Austin City Limits Festival, Merle Fest, and Philadelphia Folk Festival.  They’ve opened for The Dead and have toured with Peter Rowan, Del McCoury, Los Lobos, Little Feat, Jim Lauderdale, Rusted Root, and Railroad Earth to name a few. They also toured with Ben & Jerry’s co-founder Ben Cohen to help raise awareness about increased corporate spending in politics.  In 1991, the band started the Finger Lakes Grassroots Festival in Trumansburg, NY. The four day festival has become an annual destination for over 15,000 music lovers every year and was started as an AIDS benefit. It continues as a benefit for arts and education. To date, the event has raised hundreds of thousands of dollars and is now one of three Grassroots Festivals; the Bi-annual Shakori Hills fest in North Carolina and Virginia Key festival in Florida. In 2016 GrassRoots Culture Camp was introduced in Trumansburg, New York as four days of music, art, dance and movement workshops, including nightly dinners and dances.  ]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/donna-the-buffalo.jpeg"/>
     </item>
     <item>
-      <title>Nightrain (Guns N Roses Tribute) w/ DAZR (Nov 06)</title>
-      <link>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 29 Sep 2026 10:15:44 +0000</pubDate>
-      <eventDate>Fri, 06 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/nightrain-guns-n-roses-tribute-w-tba.jpeg"/>
-    </item>
-    <item>
-      <title>Nightrain (Guns N Roses Tribute) w/ DAZR (Nov 06)</title>
-      <link>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 29 Sep 2026 10:15:44 +0000</pubDate>
-      <eventDate>Fri, 06 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/nightrain-guns-n-roses-tribute-w-tba.jpeg"/>
-    </item>
-    <item>
-      <title>Old Habits – Christmas Show (Dec 10)</title>
-      <link>https://lincolntheatre.com/event/old-habits-christmas-show/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/old-habits-christmas-show/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Old Habits got their start back in 2003 one night when Craig Thompson, Lin Peterson, Bennett Thompson and Brian English got together to pick a little bluegrass.  A duplex across the street from Raleigh, NC landmark, The Players Retreat, served as both home to roommates Lin and Craig, and the original practice space for the band. Soon after, Chad Johnson joined the group and the rest is history. Over the next few years, Old Habits would gain momentum playing in small bars, and occasional parties.  In 2007, they recorded their first self-titled album at The Rubberroom in Chapel Hill, NC.   Eventually drums were added to the line up, and the band moved from old-school bluegrass to their current sound – a mixture of Americana, Country and Southern Roots music. Evans Nicholson joined the group on drums in 2010.]]></description>
-      <pubDate>Thu, 24 Sep 2026 18:15:39 +0000</pubDate>
-      <eventDate>Thu, 10 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/old-habits-christmas-show.jpeg"/>
-    </item>
-    <item>
-      <title>Old Habits – Christmas Show (Dec 10)</title>
-      <link>https://lincolntheatre.com/event/old-habits-christmas-show/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/old-habits-christmas-show/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Old Habits got their start back in 2003 one night when Craig Thompson, Lin Peterson, Bennett Thompson and Brian English got together to pick a little bluegrass.  A duplex across the street from Raleigh, NC landmark, The Players Retreat, served as both home to roommates Lin and Craig, and the original practice space for the band. Soon after, Chad Johnson joined the group and the rest is history. Over the next few years, Old Habits would gain momentum playing in small bars, and occasional parties.  In 2007, they recorded their first self-titled album at The Rubberroom in Chapel Hill, NC.   Eventually drums were added to the line up, and the band moved from old-school bluegrass to their current sound – a mixture of Americana, Country and Southern Roots music. Evans Nicholson joined the group on drums in 2010.]]></description>
-      <pubDate>Thu, 24 Sep 2026 18:15:39 +0000</pubDate>
-      <eventDate>Thu, 10 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/old-habits-christmas-show.jpeg"/>
-    </item>
-    <item>
-      <title>Shoot To Thrill (All Female AC/DC Tribute)/Automag/Stone Whiskey (Jan 08)</title>
+      <title>Shoot To Thrill (All Female AC/DC Tribute)/Automag/Stone Whiskey (2027-01-08)</title>
       <link>https://lincolntheatre.com/event/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 24 Sep 2026 10:15:45 +0000</pubDate>
-      <eventDate>Fri, 08 Jan 2027 00:00:00 +0000</eventDate>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey-4/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2027-01-08</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey.jpeg"/>
     </item>
     <item>
-      <title>Shoot To Thrill (All Female AC/DC Tribute)/Automag/Stone Whiskey (Jan 08)</title>
-      <link>https://lincolntheatre.com/event/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 24 Sep 2026 10:15:45 +0000</pubDate>
-      <eventDate>Fri, 08 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/shoot-to-thrill-all-female-ac-dc-tribute-automag-stone-whiskey.jpeg"/>
+      <title>NGHTMRE BEFORE XMAS (2026-12-23)</title>
+      <link>https://lincolntheatre.com/event/nghtmre-before-xmas/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/nghtmre-before-xmas/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-12-23</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/nghtmre-before-xmas.jpeg"/>
     </item>
     <item>
-      <title>American Aquarium – “Roadtrip to Raleigh” (Feb 06)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-6/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-6/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:15:57 +0000</pubDate>
-      <eventDate>Sat, 06 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2022/03/Lincoln-Theatre-Default-Event-Image.jpg"/>
+      <title>Yarn W/ Dune Dogs (2026-12-19)</title>
+      <link>https://lincolntheatre.com/event/yarn-w-dune-dogs-2/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/yarn-w-dune-dogs-2/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-12-19</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/yarn-w-dune-dogs.jpeg"/>
     </item>
     <item>
-      <title>American Aquarium – “Roadtrip to Raleigh” (Feb 06)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-6/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-6/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:15:57 +0000</pubDate>
-      <eventDate>Sat, 06 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2022/03/Lincoln-Theatre-Default-Event-Image.jpg"/>
+      <title>Old Habits – Christmas Show (2026-12-10)</title>
+      <link>https://lincolntheatre.com/event/old-habits-christmas-show/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/old-habits-christmas-show/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-12-10</ev:startdate>
+      <description><![CDATA[Old Habits got their start back in 2003 one night when Craig Thompson, Lin Peterson, Bennett Thompson and Brian English got together to pick a little bluegrass.  A duplex across the street from Raleigh, NC landmark, The Players Retreat, served as both home to roommates Lin and Craig, and the original practice space for the band. Soon after, Chad Johnson joined the group and the rest is history. Over the next few years, Old Habits would gain momentum playing in small bars, and occasional parties.  In 2007, they recorded their first self-titled album at The Rubberroom in Chapel Hill, NC.   Eventually drums were added to the line up, and the band moved from old-school bluegrass to their current sound – a mixture of Americana, Country and Southern Roots music. Evans Nicholson joined the group on drums in 2010.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/old-habits-christmas-show.jpeg"/>
     </item>
     <item>
-      <title>American Aquarium – “Roadtrip to Raleigh” (Feb 05)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-5/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-5/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:15:57 +0000</pubDate>
-      <eventDate>Fri, 05 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2022/03/Lincoln-Theatre-Default-Event-Image.jpg"/>
-    </item>
-    <item>
-      <title>American Aquarium – “Roadtrip to Raleigh” (Feb 05)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-5/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-5/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:15:57 +0000</pubDate>
-      <eventDate>Fri, 05 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2022/03/Lincoln-Theatre-Default-Event-Image.jpg"/>
-    </item>
-    <item>
-      <title>American Aquarium – “Roadtrip to Raleigh” (Feb 04)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:15:57 +0000</pubDate>
-      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2022/03/Lincoln-Theatre-Default-Event-Image.jpg"/>
-    </item>
-    <item>
-      <title>American Aquarium – “Roadtrip to Raleigh” (Feb 04)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-roadtrip-to-raleigh-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:15:57 +0000</pubDate>
-      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2022/03/Lincoln-Theatre-Default-Event-Image.jpg"/>
-    </item>
-    <item>
-      <title>PLUS DUELING PIANOS – ROAD SHOW (Nov 14)</title>
-      <link>https://lincolntheatre.com/event/plus-dueling-pianos-road-show/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/plus-dueling-pianos-road-show/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[At PLUS Dueling Pianos, we create more than just live music! we deliver unforgettable, high-energy experiences. Our interactive piano shows bring people together through music, laughter, and crowd participation, turning every event into a one-of-a-kind celebration. From private parties and corporate events to weddings and nightlife entertainment, our talented performers know how to read the room, take requests, and keep the energy alive all night. Every show is unique, dynamic, and designed to make your guests feel like part of the performance. We don’t just play music—we create moments people will talk about long after the night ends. Our Mission To deliver exceptional, interactive entertainment that connects people, elevates events, and creates lasting memories through the power of live music. Our Vision To become the go-to name in interactive live entertainment, known for transforming ordinary events into extraordinary experiences—anywhere, anytime.]]></description>
-      <pubDate>Wed, 23 Sep 2026 18:15:38 +0000</pubDate>
-      <eventDate>Sat, 14 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/plus-dueling-pianos-road-show.jpeg"/>
-    </item>
-    <item>
-      <title>JESSICA AUDIFFRED w/ MAVIC (Dec 05)</title>
+      <title>JESSICA AUDIFFRED w/ MAVIC (2026-12-05)</title>
       <link>https://lincolntheatre.com/event/jessica-audiffred-w-mavic/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jessica-audiffred-w-mavic/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 21 Sep 2026 18:16:11 +0000</pubDate>
-      <eventDate>Sat, 05 Dec 2026 00:00:00 +0000</eventDate>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/jessica-audiffred-w-mavic/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-12-05</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/jessica-audiffred-w-mavic.jpeg"/>
     </item>
     <item>
-      <title>Friendsgiving Featuring Duck &amp; friends (Nov 27)</title>
+      <title>Start Making Sense (2026-12-04)</title>
+      <link>https://lincolntheatre.com/event/start-making-sense-2/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/start-making-sense-2/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-12-04</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/start-making-sense.jpeg"/>
+    </item>
+    <item>
+      <title>Crucial Fiya (2026-11-28)</title>
+      <link>https://lincolntheatre.com/event/crucial-fiya/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/crucial-fiya/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-28</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/crucial-fiya.jpeg"/>
+    </item>
+    <item>
+      <title>Friendsgiving Featuring Duck &amp; friends (2026-11-27)</title>
       <link>https://lincolntheatre.com/event/friendsgiving-featuring-duck-friends/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/friendsgiving-featuring-duck-friends/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 21 Sep 2026 18:16:11 +0000</pubDate>
-      <eventDate>Fri, 27 Nov 2026 00:00:00 +0000</eventDate>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/friendsgiving-featuring-duck-friends/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-27</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/friendsgiving-featuring-duck-friends.jpeg"/>
     </item>
     <item>
-      <title>Friendsgiving Featuring Duck &amp; friends (Nov 27)</title>
-      <link>https://lincolntheatre.com/event/friendsgiving-featuring-duck-friends/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/friendsgiving-featuring-duck-friends/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 21 Sep 2026 18:16:11 +0000</pubDate>
-      <eventDate>Fri, 27 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/friendsgiving-featuring-duck-friends.jpeg"/>
-    </item>
-    <item>
-      <title>TRAOBA Presents: Battle of the Broker Bands (Oct 29)</title>
-      <link>https://lincolntheatre.com/event/traoba-presents-battle-of-the-broker-bands-5/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/traoba-presents-battle-of-the-broker-bands-5/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Fri, 18 Sep 2026 18:15:51 +0000</pubDate>
-      <eventDate>Thu, 29 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/traoba-presents-battle-of-the-broker-bands.jpeg"/>
-    </item>
-    <item>
-      <title>TRAOBA Presents: Battle of the Broker Bands (Oct 29)</title>
-      <link>https://lincolntheatre.com/event/traoba-presents-battle-of-the-broker-bands-5/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/traoba-presents-battle-of-the-broker-bands-5/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Fri, 18 Sep 2026 18:15:51 +0000</pubDate>
-      <eventDate>Thu, 29 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/traoba-presents-battle-of-the-broker-bands.jpeg"/>
-    </item>
-    <item>
-      <title>Weekend Excursion w/ Runaway Cab (Jan 23)</title>
-      <link>https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 15 Sep 2026 18:15:41 +0000</pubDate>
-      <eventDate>Sat, 23 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/weekend-excursion-w-runaway-cab-1.jpeg"/>
-    </item>
-    <item>
-      <title>Weekend Excursion w/ Runaway Cab (Jan 23)</title>
-      <link>https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/weekend-excursion-w-runaway-cab-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 15 Sep 2026 18:15:41 +0000</pubDate>
-      <eventDate>Sat, 23 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/weekend-excursion-w-runaway-cab-1.jpeg"/>
-    </item>
-    <item>
-      <title>NGHTMRE BEFORE XMAS (Dec 23)</title>
-      <link>https://lincolntheatre.com/event/nghtmre-before-xmas/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/nghtmre-before-xmas/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 10 Sep 2026 10:15:53 +0000</pubDate>
-      <eventDate>Wed, 23 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/nghtmre-before-xmas.jpeg"/>
-    </item>
-    <item>
-      <title>NGHTMRE BEFORE XMAS (Dec 23)</title>
-      <link>https://lincolntheatre.com/event/nghtmre-before-xmas/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/nghtmre-before-xmas/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 10 Sep 2026 10:15:53 +0000</pubDate>
-      <eventDate>Wed, 23 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/nghtmre-before-xmas.jpeg"/>
-    </item>
-    <item>
-      <title>A Farewell To Kings – AF2K Rush Tribute (Nov 22)</title>
+      <title>A Farewell To Kings – AF2K Rush Tribute (2026-11-22)</title>
       <link>https://lincolntheatre.com/event/a-farewell-to-kings-af2k-rush-tribute/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/a-farewell-to-kings-af2k-rush-tribute/lincoln-theatre/raleigh-north-carolina/</guid>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/a-farewell-to-kings-af2k-rush-tribute/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-22</ev:startdate>
       <description><![CDATA[New Jersey’s A Farewell to Kings (AF2K) is an electrifying tribute to the legendary "Holy Triumvirate" of Rush. Armed with top-caliber gear and an obsessive attention to detail, their powerhouse lineup—Zack James (Vocals), Aaron Leone (Guitar), Adam Cyran (Bass/Keys), and Johnny Vines (Drums)—resurrects the magic of vintage Rush performances. Far more than a note-perfect recital, AF2K’s high-octane shows thrive on crowd connection, turning every venue into an interactive, shared celebration of progressive rock focusing on the authentic sonic and visual recreation of Rush’s live performances. Built from the ground up as a grassroots, community-driven organization, the band has fostered a tight-knit family of passionate fans who keep the spirit of Rush alive together. From sprawling epics to the rarest deep cuts, AF2K delivers a breathtaking, community-fueled experience that unites Rush devotees young and old.  Website:  https://af2ktribute.com/  Youtube: https://youtube.com/@af2ktribute     ]]></description>
-      <pubDate>Wed, 09 Sep 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sun, 22 Nov 2026 00:00:00 +0000</eventDate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/a-farewell-to-kings-af2k-rush-tribute.jpeg"/>
     </item>
     <item>
-      <title>A Farewell To Kings – AF2K Rush Tribute (Nov 22)</title>
-      <link>https://lincolntheatre.com/event/a-farewell-to-kings-af2k-rush-tribute/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/a-farewell-to-kings-af2k-rush-tribute/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[New Jersey’s A Farewell to Kings (AF2K) is an electrifying tribute to the legendary "Holy Triumvirate" of Rush. Armed with top-caliber gear and an obsessive attention to detail, their powerhouse lineup—Zack James (Vocals), Aaron Leone (Guitar), Adam Cyran (Bass/Keys), and Johnny Vines (Drums)—resurrects the magic of vintage Rush performances. Far more than a note-perfect recital, AF2K’s high-octane shows thrive on crowd connection, turning every venue into an interactive, shared celebration of progressive rock focusing on the authentic sonic and visual recreation of Rush’s live performances. Built from the ground up as a grassroots, community-driven organization, the band has fostered a tight-knit family of passionate fans who keep the spirit of Rush alive together. From sprawling epics to the rarest deep cuts, AF2K delivers a breathtaking, community-fueled experience that unites Rush devotees young and old.  Website:  https://af2ktribute.com/  Youtube: https://youtube.com/@af2ktribute     ]]></description>
-      <pubDate>Wed, 09 Sep 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sun, 22 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/a-farewell-to-kings-af2k-rush-tribute.jpeg"/>
+      <title>Akeem Ali – The Texture Tour (2026-11-21)</title>
+      <link>https://lincolntheatre.com/event/akeem-ali-the-texture-tour/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/akeem-ali-the-texture-tour/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-21</ev:startdate>
+      <description><![CDATA[                            VIP PACKAGE INCLUDES: ONE (1) GENERAL ADMISSION TICKET INCLUDED Invitation to Pre-show Meet & Greet Experience with Akeem Ali Photo and Autograph Opportunity One (1) Collector's Item Early Entry into Venue]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/akeem-ali-the-texture-tour.jpeg"/>
     </item>
     <item>
-      <title>B93.9’s Rising Stars: Shane Profitt/Taylor Austin Dye/Julia Golden/Cole Goodwin (Oct 09)</title>
-      <link>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-julia-golden-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-julia-golden-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[This show is 18+ Presented by Thompson & Busch Light VIP experience includes early entry, balcony access, an artist performance, and meet and greet prior to show. Artist to be determined. VIP doors: 5:45 Vip Pre-show 6-6:30 GA doors:  7:00  ]]></description>
-      <pubDate>Wed, 02 Sep 2026 21:16:33 +0000</pubDate>
-      <eventDate>Fri, 09 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-julia-golden-cole-goodwin.jpeg"/>
+      <title>Tiny Habits w/ TBA (2026-11-17)</title>
+      <link>https://lincolntheatre.com/event/tiny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/tiny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-17</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/tiny-habits-w-tba.jpeg"/>
     </item>
     <item>
-      <title>Piece of Time – American Maiden Tribute w/ Skavinjir (Oct 30)</title>
+      <title>PLUS DUELING PIANOS – ROAD SHOW (2026-11-14)</title>
+      <link>https://lincolntheatre.com/event/plus-dueling-pianos-road-show/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/plus-dueling-pianos-road-show/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-14</ev:startdate>
+      <description><![CDATA[At PLUS Dueling Pianos, we create more than just live music! we deliver unforgettable, high-energy experiences. Our interactive piano shows bring people together through music, laughter, and crowd participation, turning every event into a one-of-a-kind celebration. From private parties and corporate events to weddings and nightlife entertainment, our talented performers know how to read the room, take requests, and keep the energy alive all night. Every show is unique, dynamic, and designed to make your guests feel like part of the performance. We don’t just play music—we create moments people will talk about long after the night ends. Our Mission To deliver exceptional, interactive entertainment that connects people, elevates events, and creates lasting memories through the power of live music. Our Vision To become the go-to name in interactive live entertainment, known for transforming ordinary events into extraordinary experiences—anywhere, anytime.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/plus-dueling-pianos-road-show.jpeg"/>
+    </item>
+    <item>
+      <title>An Evening With: Shadowgrass (2026-11-13)</title>
+      <link>https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-13</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/an-evening-with-shadowgrass.jpeg"/>
+    </item>
+    <item>
+      <title>The Elovaters at the Ritz (2026-11-12)</title>
+      <link>https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</guid>
+      <ev:startdate>2026-11-12</ev:startdate>
+      <description><![CDATA[w/ Wax &amp; DJ Hoppa and Dylan Cotrone]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/el5x7.jpg"/>
+    </item>
+    <item>
+      <title>The Record Company (2026-11-08)</title>
+      <link>https://lincolntheatre.com/event/the-record-company/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/the-record-company/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-08</ev:startdate>
+      <description><![CDATA[w/ Glass Kinsmen]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/the-record-company.jpeg"/>
+    </item>
+    <item>
+      <title>An evening with: Mountain Grass Unit (2026-11-07)</title>
+      <link>https://lincolntheatre.com/event/an-evening-with-mountain-grass-unit/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/an-evening-with-mountain-grass-unit/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-07</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/an-evening-with-mountain-grass-unit.jpeg"/>
+    </item>
+    <item>
+      <title>The Garcia Project (2026-11-05)</title>
+      <link>https://lincolntheatre.com/event/the-garcia-project/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/the-garcia-project/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-11-05</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/the-garcia-project.jpeg"/>
+    </item>
+    <item>
+      <title>Jackson Dean (2026-10-31)</title>
+      <link>https://lincolntheatre.com/event/jackson-dean/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/jackson-dean/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-31</ev:startdate>
+      <description><![CDATA[   Jackson Dean Pre-Show Experience  Includes: One (1) General Admission Ticket Intimate Pre-Show Acoustic Performance by Jackson Dean Q&A Session with Jackson Dean One (1) Commemorative VIP Laminate Pre-Show Merchandise Shopping Opportunity Venue First Entry PLEASE NOTE: THIS VIP PACKAGE DOES NOT INCLUDE A MEET & GREET.]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/8859739/landscape/4x3/small2.jpg?t=1790737402334&amp;Expires=1790737402&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvODg1OTczOS9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzkwNzM3NDAyMzM0IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwNzM3NDAyfX19XX0_&amp;Signature=G8a~K7Jqnjc~tEp24Sgex2tQ2NDOAC4NQsMhLwQyxIqzwpph9EzwNkeS2QCKXV1Y39q28zGl1vFjIfAashJyWkBiGhkHxmJWcRk-JY3~I-rQAdNIOqfKAtzyYfRDFQYrSqkpGRw3znMbaKeZa-3y-yUKgu7YLSzxNDpwQoeUYP2y0nD3VMpQp9xFJe-1GYzI9-MbTj2OVzNOZyJmWy6aZ-v81iZ~8nFCx9LMib5s7iH1arEoDQE8sRuZQteBgl7eb4vprI~vLRvV7yC4DVnG9EHpMxzg~Wob2oPp8xp8eMHp~q753J5x7scY9Mg1tRuAFbUL6WPd3cYJP2Z5CjDimQ__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
+    </item>
+    <item>
+      <title>Piece of Time – American Maiden Tribute w/ Skavinjir (2026-10-30)</title>
       <link>https://lincolntheatre.com/event/piece-of-time-american-maiden-tribute-w-skavinjir/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/piece-of-time-american-maiden-tribute-w-skavinjir/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 02 Sep 2026 13:16:00 +0000</pubDate>
-      <eventDate>Fri, 30 Oct 2026 00:00:00 +0000</eventDate>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/piece-of-time-american-maiden-tribute-w-skavinjir/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-30</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/piece-of-time-american-maiden-tribute-w-skavinjir.jpeg"/>
     </item>
     <item>
-      <title>Panic Stricken (Jan 22)</title>
-      <link>https://lincolntheatre.com/event/panic-stricken/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/panic-stricken/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 01 Sep 2026 21:15:59 +0000</pubDate>
-      <eventDate>Fri, 22 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/panic-stricken.jpeg"/>
+      <title>TRAOBA Presents: Battle of the Broker Bands (2026-10-29)</title>
+      <link>https://lincolntheatre.com/event/traoba-presents-battle-of-the-broker-bands-5/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/traoba-presents-battle-of-the-broker-bands-5/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-29</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/traoba-presents-battle-of-the-broker-bands.jpeg"/>
     </item>
     <item>
-      <title>Panic Stricken (Jan 22)</title>
-      <link>https://lincolntheatre.com/event/panic-stricken/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/panic-stricken/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 01 Sep 2026 21:15:59 +0000</pubDate>
-      <eventDate>Fri, 22 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/panic-stricken.jpeg"/>
+      <title>BOOGIE T (2026-10-24)</title>
+      <link>https://lincolntheatre.com/event/boogie-t/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/boogie-t/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-24</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/boogie-t.jpeg"/>
     </item>
     <item>
-      <title>Carter Faith w/ Jackson West (Oct 02)</title>
-      <link>https://lincolntheatre.com/event/carter-faith-w-jackson-west/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/carter-faith-w-jackson-west/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Carter Faith Meet & Greet VIP Package- Meet & Greet and Personal Photo with Carter- Priority entry into the building- Commemorative VIP laminate- Autographed, city specific post card]]></description>
-      <pubDate>Tue, 01 Sep 2026 21:15:59 +0000</pubDate>
-      <eventDate>Fri, 02 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/carter-faith-w-tba.jpeg"/>
+      <title>Delta Rae (2026-10-24)</title>
+      <link>https://lincolntheatre.com/event/delta-rae-at-the-ritz/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/delta-rae-at-the-ritz/</guid>
+      <ev:startdate>2026-10-24</ev:startdate>
+      <description><![CDATA[General Admission Only]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/730608557_1550183659808931_893877235938095373_n.jpg"/>
     </item>
     <item>
-      <title>Bring Out Yer Dead (Oct 16)</title>
+      <title>Phillip Phillips w/ Katie Lynne Sharbaugh (2026-10-23)</title>
+      <link>https://lincolntheatre.com/event/phillip-phillips-w-katie-lynne-sharbaugh/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/phillip-phillips-w-katie-lynne-sharbaugh/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-23</ev:startdate>
+      <description><![CDATA[Phillip Phillips Meet & Greet Experience • One general admission ticket  • Early entry into the venue  • Exclusive meet and greet along with personal photograph • Access to a pre-show songwriters story time including an acoustic performance  • Limited Edition corduroy hat  • Exclusive signed setlist  • Official meet & greet laminate  • Priority merchandise shopping  • On-site VIP host  • Limited availability   Package Disclaimer for dates not on Ticketmaster national spec: Thank you for purchasing a Phillip Phillips VIP package. Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show.  If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com ]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/phillip-phillips-w-katie-lynne-sharbaugh.jpeg"/>
+    </item>
+    <item>
+      <title>Maddie Zahm (2026-10-21)</title>
+      <link>https://lincolntheatre.com/event/maddie-zahm-2/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/maddie-zahm-2/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-21</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/maddie-zahm.jpeg"/>
+    </item>
+    <item>
+      <title>Jerry’s Middle Finger (2026-10-20)</title>
+      <link>https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-20</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/jerrys-middle-finger.jpeg"/>
+    </item>
+    <item>
+      <title>Maggie Rose (2026-10-17)</title>
+      <link>https://lincolntheatre.com/event/maggie-rose/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/maggie-rose/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-17</ev:startdate>
+      <description><![CDATA[VIP PACKAGE INCLUDES: One (1) GA Ticket Meet & Greet with Maggie Rose Individual Photo Opportunity with Maggie Rose Access to Pre-Show Acoustic Performance and Q&A with Maggie Rose One (1) Commemorative VIP Laminate, Signed by Maggie Rose First Access Merch Shopping  Venue First Entry  On Site VIP Host]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://cdn.etix.com/etix/performance-image/performance_image_1200w/b8c50d9127302281f438ef1d011e99c1.jpg"/>
+    </item>
+    <item>
+      <title>Bring Out Yer Dead (2026-10-16)</title>
       <link>https://lincolntheatre.com/event/bring-out-yer-dead-14/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/bring-out-yer-dead-14/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 01 Sep 2026 21:15:59 +0000</pubDate>
-      <eventDate>Fri, 16 Oct 2026 00:00:00 +0000</eventDate>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/bring-out-yer-dead-14/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-16</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/bring-out-yer-dead.jpeg"/>
     </item>
     <item>
-      <title>Jupiter Coyote w/ Opaline (Feb 20)</title>
-      <link>https://lincolntheatre.com/event/jupiter-coyote-w-opaline/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jupiter-coyote-w-opaline/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Jupiter Coyote:In the course of their 34 year history, Jupiter Coyote has played over five thousand shows, traveled everywhere and done just about everything a touring band can do. The innovative group has independently sold over a million CDs, tens of thousands of downloads, and who knows how many bootlegs they cut loose to fans for free. JC is brand name, and a pioneering cornerstone in the jam band scene. They have been called the new twist in southern rock and they deliver it with a relaxed, worldly view. Their sound has been labeled “Mountain Rock” — a mixture of Southern Appalachian boogie, bluegrass-infused, funk-rock. The group traces its roots to Brevard, N.C., where childhood friends Matthew Mayes (guitar, guijo, vocals) and John Felty (vocals, guitars) decided in 1988 to pursue a career in music. The duo headed to Macon, Ga., where they joined forces with drummer Gene Bass and bassist Sanders Brightwell. Steve Trismen (vocals, fiddle) joined the fold in 1999. A native of Boulder, Colo., Trismen’s playing melded neatly into the band’s sound and gave Coyote a new on-stage dynamic. Noel Felty took over for Bass on drums in 2001. Most recently, long-time JC sidekick John Meyer was added on lead guitar. Meyer is also the person who came up with the name Jupiter Coyote back when the band was first starting in Macon, Ga.   There is no band that really sounds like Jupiter Coyote. They have a guijo (banjo neck, Stratocaster body) an incredible fiddle player, and two fantastic slide guitar players.     ]]></description>
-      <pubDate>Mon, 31 Aug 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sat, 20 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/jupiter-coyote-w-opaline.jpeg"/>
-    </item>
-    <item>
-      <title>Jupiter Coyote w/ Opaline (Feb 20)</title>
-      <link>https://lincolntheatre.com/event/jupiter-coyote-w-opaline/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jupiter-coyote-w-opaline/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Jupiter Coyote:In the course of their 34 year history, Jupiter Coyote has played over five thousand shows, traveled everywhere and done just about everything a touring band can do. The innovative group has independently sold over a million CDs, tens of thousands of downloads, and who knows how many bootlegs they cut loose to fans for free. JC is brand name, and a pioneering cornerstone in the jam band scene. They have been called the new twist in southern rock and they deliver it with a relaxed, worldly view. Their sound has been labeled “Mountain Rock” — a mixture of Southern Appalachian boogie, bluegrass-infused, funk-rock. The group traces its roots to Brevard, N.C., where childhood friends Matthew Mayes (guitar, guijo, vocals) and John Felty (vocals, guitars) decided in 1988 to pursue a career in music. The duo headed to Macon, Ga., where they joined forces with drummer Gene Bass and bassist Sanders Brightwell. Steve Trismen (vocals, fiddle) joined the fold in 1999. A native of Boulder, Colo., Trismen’s playing melded neatly into the band’s sound and gave Coyote a new on-stage dynamic. Noel Felty took over for Bass on drums in 2001. Most recently, long-time JC sidekick John Meyer was added on lead guitar. Meyer is also the person who came up with the name Jupiter Coyote back when the band was first starting in Macon, Ga.   There is no band that really sounds like Jupiter Coyote. They have a guijo (banjo neck, Stratocaster body) an incredible fiddle player, and two fantastic slide guitar players.     ]]></description>
-      <pubDate>Mon, 31 Aug 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sat, 20 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/jupiter-coyote-w-opaline.jpeg"/>
-    </item>
-    <item>
-      <title>Jackson Dean (Oct 31)</title>
-      <link>https://lincolntheatre.com/event/jackson-dean/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jackson-dean/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[   Jackson Dean Pre-Show Experience  Includes: One (1) General Admission Ticket Intimate Pre-Show Acoustic Performance by Jackson Dean Q&A Session with Jackson Dean One (1) Commemorative VIP Laminate Pre-Show Merchandise Shopping Opportunity Venue First Entry PLEASE NOTE: THIS VIP PACKAGE DOES NOT INCLUDE A MEET & GREET.]]></description>
-      <pubDate>Mon, 31 Aug 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sat, 31 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/8859739/landscape/4x3/small2.jpg?t=1787711521983&amp;Expires=1787711522&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvODg1OTczOS9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzg3NzExNTIxOTgzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg3NzExNTIyfX19XX0_&amp;Signature=RUecGFpUGRPVIEdKb7zzTM2-Wcx65p26a5cc8-3Lr5YwyMGRHUOBM-s6LRe103-HkZ9GRzRxSseAxecNLtgD4mo~O0ahcJ8JfnXep-jLlhIHWLZg68jlCjYitBAfJTUyThCGb7P2OG-j0aCBY-pX3bwE7ZSj-ut67lcQkLDH1Y264v~6-nTwK6XY4Ff~bRBqAQCt~ifB4O8-M0Eh6vOlllqob3TNMaWiC-Dnc7XIQ2B5GXqOOeDrIKTn3eMIBl~T4crdnEFw3ZaMhVO3WZCXKhweW40gvG1WHlqXHkH4dCLo7~gsEqDEXuCapSeghTBICXYAojlXs7DsZdqtCQySSg__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
-    </item>
-    <item>
-      <title>Jackson Dean (Oct 31)</title>
-      <link>https://lincolntheatre.com/event/jackson-dean/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jackson-dean/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[   Jackson Dean Pre-Show Experience  Includes: One (1) General Admission Ticket Intimate Pre-Show Acoustic Performance by Jackson Dean Q&A Session with Jackson Dean One (1) Commemorative VIP Laminate Pre-Show Merchandise Shopping Opportunity Venue First Entry PLEASE NOTE: THIS VIP PACKAGE DOES NOT INCLUDE A MEET & GREET.]]></description>
-      <pubDate>Mon, 31 Aug 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sat, 31 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/8859739/landscape/4x3/small2.jpg?t=1787711521983&amp;Expires=1787711522&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvODg1OTczOS9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzg3NzExNTIxOTgzIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg3NzExNTIyfX19XX0_&amp;Signature=RUecGFpUGRPVIEdKb7zzTM2-Wcx65p26a5cc8-3Lr5YwyMGRHUOBM-s6LRe103-HkZ9GRzRxSseAxecNLtgD4mo~O0ahcJ8JfnXep-jLlhIHWLZg68jlCjYitBAfJTUyThCGb7P2OG-j0aCBY-pX3bwE7ZSj-ut67lcQkLDH1Y264v~6-nTwK6XY4Ff~bRBqAQCt~ifB4O8-M0Eh6vOlllqob3TNMaWiC-Dnc7XIQ2B5GXqOOeDrIKTn3eMIBl~T4crdnEFw3ZaMhVO3WZCXKhweW40gvG1WHlqXHkH4dCLo7~gsEqDEXuCapSeghTBICXYAojlXs7DsZdqtCQySSg__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
-    </item>
-    <item>
-      <title>Donna The Buffalo (Jan 09)</title>
-      <link>https://lincolntheatre.com/event/donna-the-buffalo/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/donna-the-buffalo/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Donna The Buffalo is not just a band, rather one might say that Donna The Buffalo has become a lifestyle for its members and audiences. Since 1989, the roots rockers have played thousands of shows and countless festivals including Bonnaroo, Newport Folk Festival, Telluride, Austin City Limits Festival, Merle Fest, and Philadelphia Folk Festival.  They’ve opened for The Dead and have toured with Peter Rowan, Del McCoury, Los Lobos, Little Feat, Jim Lauderdale, Rusted Root, and Railroad Earth to name a few. They also toured with Ben & Jerry’s co-founder Ben Cohen to help raise awareness about increased corporate spending in politics.  In 1991, the band started the Finger Lakes Grassroots Festival in Trumansburg, NY. The four day festival has become an annual destination for over 15,000 music lovers every year and was started as an AIDS benefit. It continues as a benefit for arts and education. To date, the event has raised hundreds of thousands of dollars and is now one of three Grassroots Festivals; the Bi-annual Shakori Hills fest in North Carolina and Virginia Key festival in Florida. In 2016 GrassRoots Culture Camp was introduced in Trumansburg, New York as four days of music, art, dance and movement workshops, including nightly dinners and dances.  ]]></description>
-      <pubDate>Tue, 25 Aug 2026 18:15:49 +0000</pubDate>
-      <eventDate>Sat, 09 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/donna-the-buffalo.jpeg"/>
-    </item>
-    <item>
-      <title>Donna The Buffalo (Jan 09)</title>
-      <link>https://lincolntheatre.com/event/donna-the-buffalo/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/donna-the-buffalo/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Donna The Buffalo is not just a band, rather one might say that Donna The Buffalo has become a lifestyle for its members and audiences. Since 1989, the roots rockers have played thousands of shows and countless festivals including Bonnaroo, Newport Folk Festival, Telluride, Austin City Limits Festival, Merle Fest, and Philadelphia Folk Festival.  They’ve opened for The Dead and have toured with Peter Rowan, Del McCoury, Los Lobos, Little Feat, Jim Lauderdale, Rusted Root, and Railroad Earth to name a few. They also toured with Ben & Jerry’s co-founder Ben Cohen to help raise awareness about increased corporate spending in politics.  In 1991, the band started the Finger Lakes Grassroots Festival in Trumansburg, NY. The four day festival has become an annual destination for over 15,000 music lovers every year and was started as an AIDS benefit. It continues as a benefit for arts and education. To date, the event has raised hundreds of thousands of dollars and is now one of three Grassroots Festivals; the Bi-annual Shakori Hills fest in North Carolina and Virginia Key festival in Florida. In 2016 GrassRoots Culture Camp was introduced in Trumansburg, New York as four days of music, art, dance and movement workshops, including nightly dinners and dances.  ]]></description>
-      <pubDate>Tue, 25 Aug 2026 18:15:49 +0000</pubDate>
-      <eventDate>Sat, 09 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/donna-the-buffalo.jpeg"/>
-    </item>
-    <item>
-      <title>Start Making Sense (Dec 04)</title>
-      <link>https://lincolntheatre.com/event/start-making-sense-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/start-making-sense-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Fri, 21 Aug 2026 18:15:44 +0000</pubDate>
-      <eventDate>Fri, 04 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/start-making-sense.jpeg"/>
-    </item>
-    <item>
-      <title>Start Making Sense (Dec 04)</title>
-      <link>https://lincolntheatre.com/event/start-making-sense-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/start-making-sense-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Fri, 21 Aug 2026 18:15:44 +0000</pubDate>
-      <eventDate>Fri, 04 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/start-making-sense.jpeg"/>
-    </item>
-    <item>
-      <title>Machine Girl w/ Portrayal of Guilt / yesterdayneverhappened (Oct 14)</title>
-      <link>https://lincolntheatre.com/event/machine-girl-w-portrayal-of-guilt-yesterdayneverhappened/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/machine-girl-w-portrayal-of-guilt-yesterdayneverhappened/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 19 Aug 2026 18:15:45 +0000</pubDate>
-      <eventDate>Wed, 14 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/machine-girl.jpeg"/>
-    </item>
-    <item>
-      <title>Machine Girl w/ Portrayal of Guilt / yesterdayneverhappened (Oct 14)</title>
-      <link>https://lincolntheatre.com/event/machine-girl-w-portrayal-of-guilt-yesterdayneverhappened/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/machine-girl-w-portrayal-of-guilt-yesterdayneverhappened/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 19 Aug 2026 18:15:45 +0000</pubDate>
-      <eventDate>Wed, 14 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/machine-girl.jpeg"/>
-    </item>
-    <item>
-      <title>High June w/ Cadalay (Oct 03)</title>
-      <link>https://lincolntheatre.com/event/high-june-w-cadalay/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/high-june-w-cadalay/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 18 Aug 2026 18:15:41 +0000</pubDate>
-      <eventDate>Sat, 03 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/high-june-w-cadalay.jpeg"/>
-    </item>
-    <item>
-      <title>High June w/ Cadalay (Oct 03)</title>
-      <link>https://lincolntheatre.com/event/high-june-w-cadalay/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/high-june-w-cadalay/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 18 Aug 2026 18:15:41 +0000</pubDate>
-      <eventDate>Sat, 03 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/high-june-w-cadalay.jpeg"/>
-    </item>
-    <item>
-      <title>Maggie Rose (Oct 17)</title>
-      <link>https://lincolntheatre.com/event/maggie-rose/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/maggie-rose/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 17 Aug 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sat, 17 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://cdn.etix.com/etix/performance-image/performance_image_1200w/b8c50d9127302281f438ef1d011e99c1.jpg"/>
-    </item>
-    <item>
-      <title>Maggie Rose (Oct 17)</title>
-      <link>https://lincolntheatre.com/event/maggie-rose/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/maggie-rose/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 17 Aug 2026 18:15:47 +0000</pubDate>
-      <eventDate>Sat, 17 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://cdn.etix.com/etix/performance-image/performance_image_1200w/b8c50d9127302281f438ef1d011e99c1.jpg"/>
-    </item>
-    <item>
-      <title>Crucial Fiya (Oct 28)</title>
-      <link>https://lincolntheatre.com/event/crucial-fiya/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/crucial-fiya/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Fri, 14 Aug 2026 23:15:40 +0000</pubDate>
-      <eventDate>Wed, 28 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/crucial-fiya.jfif"/>
-    </item>
-    <item>
-      <title>Yarn W/ Dune Dogs (Dec 19)</title>
-      <link>https://lincolntheatre.com/event/yarn-w-dune-dogs-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/yarn-w-dune-dogs-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:15:53 +0000</pubDate>
-      <eventDate>Sat, 19 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/yarn-w-dune-dogs.jfif"/>
-    </item>
-    <item>
-      <title>Yarn W/ Dune Dogs (Dec 19)</title>
-      <link>https://lincolntheatre.com/event/yarn-w-dune-dogs-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/yarn-w-dune-dogs-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 11 Aug 2026 18:15:53 +0000</pubDate>
-      <eventDate>Sat, 19 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/yarn-w-dune-dogs.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Jan 02)</title>
-      <link>https://lincolntheatre.com/event/big-something-7/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-7/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Sat, 02 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Jan 02)</title>
-      <link>https://lincolntheatre.com/event/big-something-7/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-7/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Sat, 02 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Jan 01)</title>
-      <link>https://lincolntheatre.com/event/big-something-6/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-6/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Fri, 01 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Jan 01)</title>
-      <link>https://lincolntheatre.com/event/big-something-6/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-6/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Fri, 01 Jan 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Dec 31)</title>
-      <link>https://lincolntheatre.com/event/big-something-5/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-5/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Thu, 31 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Dec 31)</title>
-      <link>https://lincolntheatre.com/event/big-something-5/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-5/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Thu, 31 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Dec 30)</title>
-      <link>https://lincolntheatre.com/event/big-something-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Wed, 30 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something (Dec 30)</title>
-      <link>https://lincolntheatre.com/event/big-something-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Wed, 30 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/big-something.jfif"/>
-    </item>
-    <item>
-      <title>Big Something 4-Night Pass (Dec 30)</title>
-      <link>https://lincolntheatre.com/event/big-something-4-night-pass/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-4-night-pass/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Wed, 30 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2025/09/etix-Big_908351759256234.jfif"/>
-    </item>
-    <item>
-      <title>Big Something 4-Night Pass (Dec 30)</title>
-      <link>https://lincolntheatre.com/event/big-something-4-night-pass/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/big-something-4-night-pass/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 06 Aug 2026 18:16:00 +0000</pubDate>
-      <eventDate>Wed, 30 Dec 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2025/09/etix-Big_908351759256234.jfif"/>
-    </item>
-    <item>
-      <title>The Elovaters at the Ritz (Nov 12)</title>
-      <link>https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</link>
-      <guid>https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</guid>
-      <description><![CDATA[w/ Wax &amp; DJ Hoppa and Dylan Cotrone]]></description>
-      <pubDate>Tue, 04 Aug 2026 18:15:40 +0000</pubDate>
-      <eventDate>Thu, 12 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/theelovaters.jpg"/>
-    </item>
-    <item>
-      <title>The Elovaters at the Ritz (Nov 12)</title>
-      <link>https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</link>
-      <guid>https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</guid>
-      <description><![CDATA[w/ Wax &amp; DJ Hoppa and Dylan Cotrone]]></description>
-      <pubDate>Tue, 04 Aug 2026 18:15:40 +0000</pubDate>
-      <eventDate>Thu, 12 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/theelovaters.jpg"/>
-    </item>
-    <item>
-      <title>Carter Faith w/ TBA (Oct 02)</title>
-      <link>https://lincolntheatre.com/event/carter-faith-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/carter-faith-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 27 Jul 2026 18:15:43 +0000</pubDate>
-      <eventDate>Fri, 02 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/carter-faith-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Carter Faith w/ TBA (Oct 02)</title>
-      <link>https://lincolntheatre.com/event/carter-faith-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/carter-faith-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 27 Jul 2026 18:15:43 +0000</pubDate>
-      <eventDate>Fri, 02 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/carter-faith-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Nightrain (Guns N Roses Tribute) w/ TBA (Nov 06)</title>
-      <link>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 21 Jul 2026 21:16:02 +0000</pubDate>
-      <eventDate>Fri, 06 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2025/03/etix-Nightrain_892241741097064.jfif"/>
-    </item>
-    <item>
-      <title>Nightrain (Guns N Roses Tribute) w/ TBA (Nov 06)</title>
-      <link>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 21 Jul 2026 21:16:02 +0000</pubDate>
-      <eventDate>Fri, 06 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2025/03/etix-Nightrain_892241741097064.jfif"/>
-    </item>
-    <item>
-      <title>B93.9’s Rising Stars: Shane Profitt/Taylor Austin Dye/Cole Goodwin (Oct 09)</title>
-      <link>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[This show is 18+ Presented by Thompson & Busch Light VIP experience includes early entry, balcony access, an artist performance, and meet and greet prior to show. Artist to be determined. VIP doors: 5:45 Vip Pre-show 6-6:30 GA doors:  7:00  ]]></description>
-      <pubDate>Mon, 20 Jul 2026 13:16:01 +0000</pubDate>
-      <eventDate>Fri, 09 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-cole-goodwin.jfif"/>
-    </item>
-    <item>
-      <title>B93.9’s Rising Stars: Shane Profitt/Taylor Austin Dye/Cole Goodwin (Oct 09)</title>
-      <link>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[This show is 18+ Presented by Thompson & Busch Light VIP experience includes early entry, balcony access, an artist performance, and meet and greet prior to show. Artist to be determined. VIP doors: 5:45 Vip Pre-show 6-6:30 GA doors:  7:00  ]]></description>
-      <pubDate>Mon, 20 Jul 2026 13:16:01 +0000</pubDate>
-      <eventDate>Fri, 09 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-cole-goodwin.jfif"/>
-    </item>
-    <item>
-      <title>The Garcia Project (Nov 05)</title>
-      <link>https://lincolntheatre.com/event/the-garcia-project/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/the-garcia-project/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 14 Jul 2026 18:15:47 +0000</pubDate>
-      <eventDate>Thu, 05 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/the-garcia-project.jfif"/>
-    </item>
-    <item>
-      <title>The Garcia Project (Nov 05)</title>
-      <link>https://lincolntheatre.com/event/the-garcia-project/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/the-garcia-project/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 14 Jul 2026 18:15:47 +0000</pubDate>
-      <eventDate>Thu, 05 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/the-garcia-project.jfif"/>
-    </item>
-    <item>
-      <title>Jerry’s Middle Finger (Oct 30)</title>
-      <link>https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 14 Jul 2026 18:15:47 +0000</pubDate>
-      <eventDate>Fri, 30 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/jerrys-middle-finger.jfif"/>
-    </item>
-    <item>
-      <title>Jerry’s Middle Finger (Oct 30)</title>
-      <link>https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 14 Jul 2026 18:15:47 +0000</pubDate>
-      <eventDate>Fri, 30 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/jerrys-middle-finger.jfif"/>
-    </item>
-    <item>
-      <title>Machine Girl (Oct 14)</title>
-      <link>https://lincolntheatre.com/event/machine-girl/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/machine-girl/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 07 Jul 2026 18:15:51 +0000</pubDate>
-      <eventDate>Wed, 14 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/machine-girl.jfif"/>
-    </item>
-    <item>
-      <title>Machine Girl (Oct 14)</title>
-      <link>https://lincolntheatre.com/event/machine-girl/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/machine-girl/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 07 Jul 2026 18:15:51 +0000</pubDate>
-      <eventDate>Wed, 14 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/07/machine-girl.jfif"/>
-    </item>
-    <item>
-      <title>Delta Rae (Oct 24)</title>
-      <link>https://lincolntheatre.com/event/delta-rae-at-the-ritz/</link>
-      <guid>https://lincolntheatre.com/event/delta-rae-at-the-ritz/</guid>
-      <description><![CDATA[General Admission Only]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:15:55 +0000</pubDate>
-      <eventDate>Sat, 24 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/Delta-Rae.webp"/>
-    </item>
-    <item>
-      <title>Delta Rae (Oct 24)</title>
-      <link>https://lincolntheatre.com/event/delta-rae-at-the-ritz/</link>
-      <guid>https://lincolntheatre.com/event/delta-rae-at-the-ritz/</guid>
-      <description><![CDATA[General Admission Only]]></description>
-      <pubDate>Fri, 26 Jun 2026 13:15:55 +0000</pubDate>
-      <eventDate>Sat, 24 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/Delta-Rae.webp"/>
-    </item>
-    <item>
-      <title>Andy Frasco &amp; The U.N (Oct 04)</title>
-      <link>https://lincolntheatre.com/event/andy-frasco-the-u-n/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/andy-frasco-the-u-n/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:15:49 +0000</pubDate>
-      <eventDate>Sun, 04 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/andy-frasco-the-u-n.jfif"/>
-    </item>
-    <item>
-      <title>Andy Frasco &amp; The U.N (Oct 04)</title>
-      <link>https://lincolntheatre.com/event/andy-frasco-the-u-n/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/andy-frasco-the-u-n/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 24 Jun 2026 18:15:49 +0000</pubDate>
-      <eventDate>Sun, 04 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/andy-frasco-the-u-n.jfif"/>
-    </item>
-    <item>
-      <title>Phillip Phillips w/ Katie Lynne Sharbaugh (Oct 23)</title>
-      <link>https://lincolntheatre.com/event/phillip-phillips-w-katie-lynne-sharbaugh/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/phillip-phillips-w-katie-lynne-sharbaugh/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Phillip Phillips Meet & Greet Experience • One general admission ticket  • Early entry into the venue  • Exclusive meet and greet along with personal photograph • Access to a pre-show songwriters story time including an acoustic performance  • Limited Edition corduroy hat  • Exclusive signed setlist  • Official meet & greet laminate  • Priority merchandise shopping  • On-site VIP host  • Limited availability   Package Disclaimer for dates not on Ticketmaster national spec: Thank you for purchasing a Phillip Phillips VIP package. Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show.  If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com ]]></description>
-      <pubDate>Tue, 23 Jun 2026 23:15:46 +0000</pubDate>
-      <eventDate>Fri, 23 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/phillip-phillips-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Phillip Phillips w/ TBA (Oct 23)</title>
-      <link>https://lincolntheatre.com/event/phillip-phillips-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/phillip-phillips-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Phillip Phillips Meet & Greet Experience • One general admission ticket  • Early entry into the venue  • Exclusive meet and greet with Phillip Phillips  • Personal photograph with Phillip Phillips  • Access to a pre-show songwriters story time with Phillip Phillips • Including an acoustic performance of a few secret songs  • Limited Edition Phillip Phillips corduroy hat  • Exclusive Phillip Phillips signed setlist  • Official meet & greet laminate  • Priority merchandise shopping  • On-site VIP host  • Limited availability    Package Disclaimer for dates not on Ticketmaster national spec: Thank you for purchasing a Phillip Phillips VIP package. Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show.  If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com ]]></description>
-      <pubDate>Tue, 23 Jun 2026 18:15:49 +0000</pubDate>
-      <eventDate>Fri, 23 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/phillip-phillips-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Phillip Phillips w/ TBA (Oct 23)</title>
-      <link>https://lincolntheatre.com/event/phillip-phillips-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/phillip-phillips-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[Phillip Phillips Meet & Greet Experience • One general admission ticket  • Early entry into the venue  • Exclusive meet and greet with Phillip Phillips  • Personal photograph with Phillip Phillips  • Access to a pre-show songwriters story time with Phillip Phillips • Including an acoustic performance of a few secret songs  • Limited Edition Phillip Phillips corduroy hat  • Exclusive Phillip Phillips signed setlist  • Official meet & greet laminate  • Priority merchandise shopping  • On-site VIP host  • Limited availability    Package Disclaimer for dates not on Ticketmaster national spec: Thank you for purchasing a Phillip Phillips VIP package. Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show.  If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com ]]></description>
-      <pubDate>Tue, 23 Jun 2026 18:15:49 +0000</pubDate>
-      <eventDate>Fri, 23 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/phillip-phillips-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Tiny Habits w/ TBA (Nov 17)</title>
-      <link>https://lincolntheatre.com/event/tiny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/tiny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 22 Jun 2026 18:15:51 +0000</pubDate>
-      <eventDate>Tue, 17 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/tinny-habits-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Tiny Habits w/ TBA (Nov 17)</title>
-      <link>https://lincolntheatre.com/event/tiny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/tiny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 22 Jun 2026 18:15:51 +0000</pubDate>
-      <eventDate>Tue, 17 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/tinny-habits-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Tinny Habits w/ TBA (Nov 17)</title>
-      <link>https://lincolntheatre.com/event/tinny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/tinny-habits-w-tba/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:15:43 +0000</pubDate>
-      <eventDate>Tue, 17 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/tinny-habits-w-tba.jfif"/>
-    </item>
-    <item>
-      <title>Isaiah falls (Oct 18)</title>
-      <link>https://lincolntheatre.com/event/isaiah-falls-presents-lvrs-paradise-side-b-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/isaiah-falls-presents-lvrs-paradise-side-b-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[VIP: Isaiah Falls Meet & Greet Package One general admission ticket Early entry into the venue Exclusive meet & greet with Isaiah Falls Personal photograph with Isaiah Falls Custom LVRS PARADISE dice keychain Official meet & greet laminate and lanyard, autographed by Isaiah Falls Priority merchandise shopping Limited availability  *Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable and not valid if purchased through fan-to-fan resale; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show. If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com.*]]></description>
-      <pubDate>Thu, 18 Jun 2026 18:15:38 +0000</pubDate>
-      <eventDate>Sun, 18 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/8864804/landscape/4x3/small2.jpg?t=1781646142711&amp;Expires=1781646143&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvODg2NDgwNC9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzgxNjQ2MTQyNzExIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxNjQ2MTQzfX19XX0_&amp;Signature=ABEBtjsMG8omySoEIgVx3aho8ENRMPkpNNM4CfBz3p2GemzHWwX~CNSkQ-OPkq~WLUCd2xaKgPW9qLHUg~8jqZ-LNuFM-FiTwLsufd1~l8KwhaipEA1c66UCov5N1l74ic-XwFDcLl9ONWOV2NpwsmpqyEIA2jKAxt4RS6ASM1~MdXUkQnDyPUz6dfGvXYzYowihQrQy3HRFVDaey1-gMDXiWQYICzShjvX-z3uyZpDlI4M~Gzq4puz5ZYG34Fy6dYvxUG0MGgQFde96r33Nu7DmHj6yXk5t6U-f-f-DYeH-X8BKDU-iF6dA9aMJHzobRXPBqPuDwHLulkB9nb~pQA__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
-    </item>
-    <item>
-      <title>Isaiah falls (Oct 18)</title>
-      <link>https://lincolntheatre.com/event/isaiah-falls-presents-lvrs-paradise-side-b-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/isaiah-falls-presents-lvrs-paradise-side-b-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[VIP: Isaiah Falls Meet & Greet Package One general admission ticket Early entry into the venue Exclusive meet & greet with Isaiah Falls Personal photograph with Isaiah Falls Custom LVRS PARADISE dice keychain Official meet & greet laminate and lanyard, autographed by Isaiah Falls Priority merchandise shopping Limited availability  *Buyers will receive an email approximately three days prior to the show date with VIP details, sent to the address submitted at time of purchase. One More Time VIP, the artist, tour, promoter, ticketing company, venue or any other affiliated parties are not responsible for outdated or inaccurate information provided by the consumer. All packages and package contents are non-transferable and not valid if purchased through fan-to-fan resale; no refunds or exchanges; all sales are final. Package elements are subject to change. VIP merchandise items will be distributed at the show. If you have any questions regarding your VIP package elements, please contact info@onemoretimevip.com.*]]></description>
-      <pubDate>Thu, 18 Jun 2026 18:15:38 +0000</pubDate>
-      <eventDate>Sun, 18 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/8864804/landscape/4x3/small2.jpg?t=1781646142711&amp;Expires=1781646143&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvODg2NDgwNC9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzgxNjQ2MTQyNzExIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxNjQ2MTQzfX19XX0_&amp;Signature=ABEBtjsMG8omySoEIgVx3aho8ENRMPkpNNM4CfBz3p2GemzHWwX~CNSkQ-OPkq~WLUCd2xaKgPW9qLHUg~8jqZ-LNuFM-FiTwLsufd1~l8KwhaipEA1c66UCov5N1l74ic-XwFDcLl9ONWOV2NpwsmpqyEIA2jKAxt4RS6ASM1~MdXUkQnDyPUz6dfGvXYzYowihQrQy3HRFVDaey1-gMDXiWQYICzShjvX-z3uyZpDlI4M~Gzq4puz5ZYG34Fy6dYvxUG0MGgQFde96r33Nu7DmHj6yXk5t6U-f-f-DYeH-X8BKDU-iF6dA9aMJHzobRXPBqPuDwHLulkB9nb~pQA__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
-    </item>
-    <item>
-      <title>The Record Company (Nov 08)</title>
-      <link>https://lincolntheatre.com/event/the-record-company/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/the-record-company/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 16 Jun 2026 18:16:06 +0000</pubDate>
-      <eventDate>Sun, 08 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/the-record-company.jfif"/>
-    </item>
-    <item>
-      <title>LaMP (ft. Russ Lawton, Scott Metzger, Ray Paczkowski) (Oct 15)</title>
+      <title>LaMP (ft. Russ Lawton, Scott Metzger, Ray Paczkowski) (2026-10-15)</title>
       <link>https://lincolntheatre.com/event/lamp-ft-russ-lawton-scott-metzger-ray-paczkowski-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/lamp-ft-russ-lawton-scott-metzger-ray-paczkowski-2/lincoln-theatre/raleigh-north-carolina/</guid>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/lamp-ft-russ-lawton-scott-metzger-ray-paczkowski-2/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-15</ev:startdate>
       <description><![CDATA[LaMP (ft. Russ Lawton, Scott Metzger, Ray Paczkowski)]]></description>
-      <pubDate>Tue, 16 Jun 2026 18:16:06 +0000</pubDate>
-      <eventDate>Thu, 15 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/lamp-ft-russ-lawton-scott-metzger-ray-paczkowski.jfif"/>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/lamp-ft-russ-lawton-scott-metzger-ray-paczkowski.jpeg"/>
     </item>
     <item>
-      <title>BOOGIE T (Oct 24)</title>
-      <link>https://lincolntheatre.com/event/boogie-t/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/boogie-t/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 16 Jun 2026 18:16:06 +0000</pubDate>
-      <eventDate>Sat, 24 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/boogie-t.jfif"/>
+      <title>Machine Girl w/ Portrayal of Guilt / yesterdayneverhappened (2026-10-14)</title>
+      <link>https://lincolntheatre.com/event/machine-girl-w-portrayal-of-guilt-yesterdayneverhappened/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/machine-girl-w-portrayal-of-guilt-yesterdayneverhappened/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-14</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/machine-girl.jpeg"/>
     </item>
     <item>
-      <title>SiM (Nov 09)</title>
-      <link>https://lincolntheatre.com/event/sim-hooman-world-tour-w-zero-936-aurorawave/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/sim-hooman-world-tour-w-zero-936-aurorawave/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[<hr>
-<div class="col-12 rhpSocialIconsWrapper mb-0" data-cya11y-org-font-size="16">
- <ul class="rhpSocialIcons d-flex flex-wrap singleSocialIcon list-inline mb-0">
-  <li class="list-inline-item mrSocial" data-cya11y-org-font-size="16"><a href="https://open.spotify.com/artist/3fzwvWjZc61ZvnPgrPVnWV" target="_blank" data-cya11y-org-font-size="16"> <i class="rhp-events-icon spotify"></i> </a></li>
- </ul>
-</div>]]></description>
-      <pubDate>Tue, 16 Jun 2026 10:15:41 +0000</pubDate>
-      <eventDate>Mon, 09 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/6797787/landscape/4x3/small2.jpg?t=1781571709039&amp;Expires=1781571709&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvNjc5Nzc4Ny9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzgxNTcxNzA5MDM5IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxNTcxNzA5fX19XX0_&amp;Signature=ybhNXijMxhWWw90ivz9Szk-LXnOOn6QeZiWmZssmspDvElRvxyqPb3apEy0t9rCETYhKaTAzAz1q3w4IkdsAt686JYSCqVjevryNylimaEJyNuVIWXulqACp8kNHpSly4qdAKVzzp0gjMo4kwuzNthO4TGa82Ajab2vz1hTlvTzV~p~lnuDHVChJNycSx3bqaqyOWZsRZMYkmzhkdYoQdSmIqrQAzzW~wiiKtWCNM36YgkDFbMk7FWYsC5rsnywSllHDaXUi8W4QOW9mJezbMoyYmu7Gu-IQmPmpJEGD9JQMKyTlZTgkdvalFWrYKSFQE5qf7tEXWi56SCzB3g8-PA__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
+      <title>Silverada With The Pink Stones (2026-10-13)</title>
+      <link>https://lincolntheatre.com/event/silverada-with-the-pink-stones/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/silverada-with-the-pink-stones/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-13</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/silverada-with-the-pink-stones.jpeg"/>
     </item>
     <item>
-      <title>SiM (Nov 09)</title>
-      <link>https://lincolntheatre.com/event/sim-hooman-world-tour-w-zero-936-aurorawave/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/sim-hooman-world-tour-w-zero-936-aurorawave/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[<hr>
-<div class="col-12 rhpSocialIconsWrapper mb-0" data-cya11y-org-font-size="16">
- <ul class="rhpSocialIcons d-flex flex-wrap singleSocialIcon list-inline mb-0">
-  <li class="list-inline-item mrSocial" data-cya11y-org-font-size="16"><a href="https://open.spotify.com/artist/3fzwvWjZc61ZvnPgrPVnWV" target="_blank" data-cya11y-org-font-size="16"> <i class="rhp-events-icon spotify"></i> </a></li>
- </ul>
-</div>]]></description>
-      <pubDate>Tue, 16 Jun 2026 10:15:41 +0000</pubDate>
-      <eventDate>Mon, 09 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/6797787/landscape/4x3/small2.jpg?t=1781571709039&amp;Expires=1781571709&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvNjc5Nzc4Ny9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzgxNTcxNzA5MDM5IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgxNTcxNzA5fX19XX0_&amp;Signature=ybhNXijMxhWWw90ivz9Szk-LXnOOn6QeZiWmZssmspDvElRvxyqPb3apEy0t9rCETYhKaTAzAz1q3w4IkdsAt686JYSCqVjevryNylimaEJyNuVIWXulqACp8kNHpSly4qdAKVzzp0gjMo4kwuzNthO4TGa82Ajab2vz1hTlvTzV~p~lnuDHVChJNycSx3bqaqyOWZsRZMYkmzhkdYoQdSmIqrQAzzW~wiiKtWCNM36YgkDFbMk7FWYsC5rsnywSllHDaXUi8W4QOW9mJezbMoyYmu7Gu-IQmPmpJEGD9JQMKyTlZTgkdvalFWrYKSFQE5qf7tEXWi56SCzB3g8-PA__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
+      <title>JJ Grey and Mofro with special guest the 502’s (2026-10-10)</title>
+      <link>https://lincolntheatre.com/event/jj-grey-and-mofro-with-special-guest-the-502s/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/jj-grey-and-mofro-with-special-guest-the-502s/</guid>
+      <ev:startdate>2026-10-10</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/123_1-copy.jpeg"/>
     </item>
     <item>
-      <title>honestav – The Sweet American Boy Tour (Oct 01)</title>
-      <link>https://lincolntheatre.com/event/honestav-the-sweet-american-boy-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/honestav-the-sweet-american-boy-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[   ]]></description>
-      <pubDate>Mon, 15 Jun 2026 18:15:45 +0000</pubDate>
-      <eventDate>Thu, 01 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/honestav-the-sweet-american-boy-tour.jfif"/>
+      <title>B93.9’s Rising Stars: Shane Profitt/Taylor Austin Dye/Julia Golden/Cole Goodwin (2026-10-09)</title>
+      <link>https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-julia-golden-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-julia-golden-cole-goodwin/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-09</ev:startdate>
+      <description><![CDATA[This show is 18+ Presented by Thompson & Busch Light VIP experience includes early entry, balcony access, an artist performance, and meet and greet prior to show. Artist to be determined. VIP doors: 5:45 Vip Pre-show 6-6:30 GA doors:  7:00  ]]></description>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/b93-9s-rising-stars-shane-profitt-taylor-austin-dye-julia-golden-cole-goodwin.jpeg"/>
     </item>
     <item>
-      <title>honestav – The Sweet American Boy Tour (Oct 01)</title>
-      <link>https://lincolntheatre.com/event/honestav-the-sweet-american-boy-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/honestav-the-sweet-american-boy-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[   ]]></description>
-      <pubDate>Mon, 15 Jun 2026 18:15:45 +0000</pubDate>
-      <eventDate>Thu, 01 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/honestav-the-sweet-american-boy-tour.jfif"/>
-    </item>
-    <item>
-      <title>An evening with: Mountain Grass Unit (Nov 07)</title>
-      <link>https://lincolntheatre.com/event/an-evening-with-mountain-grass-unit/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/an-evening-with-mountain-grass-unit/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 15 Jun 2026 13:15:50 +0000</pubDate>
-      <eventDate>Sat, 07 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/an-evening-with-mountain-grass-unit.jfif"/>
-    </item>
-    <item>
-      <title>Lettuce – “Cook Tour” (Oct 07)</title>
+      <title>Lettuce – “Cook Tour” (2026-10-07)</title>
       <link>https://lincolntheatre.com/event/lettuce-cook-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/lettuce-cook-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Wed, 10 Jun 2026 18:15:58 +0000</pubDate>
-      <eventDate>Wed, 07 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/lettuce-cook-tour.jfif"/>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/lettuce-cook-tour/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-07</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/lettuce-cook-tour.jpeg"/>
     </item>
     <item>
-      <title>Maddie Zahm (Oct 21)</title>
-      <link>https://lincolntheatre.com/event/maddie-zahm-2/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/maddie-zahm-2/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:15:47 +0000</pubDate>
-      <eventDate>Wed, 21 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/maddie-zahm.jfif"/>
-    </item>
-    <item>
-      <title>Lincoln Theatre Presents: Brett Dennen @ The Rialto (Oct 02)</title>
-      <link>https://lincolntheatre.com/event/lincoln-theatre-presents-brett-dennen-the-rialto/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/lincoln-theatre-presents-brett-dennen-the-rialto/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Mon, 01 Jun 2026 18:15:45 +0000</pubDate>
-      <eventDate>Fri, 02 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/lincoln-theatre-presents-brett-dennen-the-rialto.jfif"/>
-    </item>
-    <item>
-      <title>SiM (Nov 09)</title>
-      <link>https://lincolntheatre.com/event/sim-hooman-world-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/sim-hooman-world-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[<hr>
-<div class="col-12 rhpSocialIconsWrapper mb-0">
- <ul class="rhpSocialIcons d-flex flex-wrap singleSocialIcon list-inline mb-0">
-  <li class="list-inline-item mrSocial"><a href="https://open.spotify.com/artist/3fzwvWjZc61ZvnPgrPVnWV" target="_blank"> <i class="rhp-events-icon spotify"></i> </a></li>
- </ul>
-</div>]]></description>
-      <pubDate>Tue, 19 May 2026 18:15:42 +0000</pubDate>
-      <eventDate>Mon, 09 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/6797787/landscape/4x3/small2.jpg?t=1779143442990&amp;Expires=1779143443&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvNjc5Nzc4Ny9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzc5MTQzNDQyOTkwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MTQzNDQzfX19XX0_&amp;Signature=Qhpbt6VhWqSxVsJWxBdRYGSQ2FTiUFiKAG1aCUJIDMgNYrBzAd-nJsuNnZrgXf0UPCAaAU72R2a1Ka3panXJv~1Rm1yXleywFqXSouvlhSFZMREdQNr-bnYjyaySBiOh0bjcP2aTUNmb9ysXt7YZQvl1CNF9RcCNA4~bQ5upffGan9JoFit2YgZFtmvryemlEGaFGqPpaytlrodOjdGy4qn5sxNwM8JncBgjDOkwpwhz5S4PD-Z9BS-OqLAIoFIr0hDpdA26DeuzTUnxN6Csh6x1FKpBqcb6rPoombwEbp9EinIY3Dkv9EFdHeX82yCmaRRViiHLT-mwV1ZI8KtwDw__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
-    </item>
-    <item>
-      <title>SiM (Nov 09)</title>
-      <link>https://lincolntheatre.com/event/sim-hooman-world-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/sim-hooman-world-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[<hr>
-<div class="col-12 rhpSocialIconsWrapper mb-0">
- <ul class="rhpSocialIcons d-flex flex-wrap singleSocialIcon list-inline mb-0">
-  <li class="list-inline-item mrSocial"><a href="https://open.spotify.com/artist/3fzwvWjZc61ZvnPgrPVnWV" target="_blank"> <i class="rhp-events-icon spotify"></i> </a></li>
- </ul>
-</div>]]></description>
-      <pubDate>Tue, 19 May 2026 18:15:42 +0000</pubDate>
-      <eventDate>Mon, 09 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://media.muzooka.com/images/6797787/landscape/4x3/small2.jpg?t=1779143442990&amp;Expires=1779143443&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9tZWRpYS5tdXpvb2thLmNvbS9pbWFnZXMvNjc5Nzc4Ny9sYW5kc2NhcGUvNHgzL3NtYWxsMi5qcGc~dD0xNzc5MTQzNDQyOTkwIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzc5MTQzNDQzfX19XX0_&amp;Signature=Qhpbt6VhWqSxVsJWxBdRYGSQ2FTiUFiKAG1aCUJIDMgNYrBzAd-nJsuNnZrgXf0UPCAaAU72R2a1Ka3panXJv~1Rm1yXleywFqXSouvlhSFZMREdQNr-bnYjyaySBiOh0bjcP2aTUNmb9ysXt7YZQvl1CNF9RcCNA4~bQ5upffGan9JoFit2YgZFtmvryemlEGaFGqPpaytlrodOjdGy4qn5sxNwM8JncBgjDOkwpwhz5S4PD-Z9BS-OqLAIoFIr0hDpdA26DeuzTUnxN6Csh6x1FKpBqcb6rPoombwEbp9EinIY3Dkv9EFdHeX82yCmaRRViiHLT-mwV1ZI8KtwDw__&amp;Key-Pair-Id=K1X40HXG4SUYN0"/>
-    </item>
-    <item>
-      <title>JJ Grey and Mofro with special guest the 502’s (Oct 10)</title>
-      <link>https://lincolntheatre.com/event/jj-grey-and-mofro-with-special-guest-the-502s/</link>
-      <guid>https://lincolntheatre.com/event/jj-grey-and-mofro-with-special-guest-the-502s/</guid>
-      <pubDate>Thu, 30 Apr 2026 18:15:52 +0000</pubDate>
-      <eventDate>Sat, 10 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/123_1.jpeg"/>
-    </item>
-    <item>
-      <title>JJ Grey and Mofro with special guest the 502’s (Oct 10)</title>
-      <link>https://lincolntheatre.com/event/jj-grey-and-mofro-with-special-guest-the-502s/</link>
-      <guid>https://lincolntheatre.com/event/jj-grey-and-mofro-with-special-guest-the-502s/</guid>
-      <pubDate>Thu, 30 Apr 2026 18:15:52 +0000</pubDate>
-      <eventDate>Sat, 10 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/123_1.jpeg"/>
-    </item>
-    <item>
-      <title>An Evening With: Shadowgrass (Nov 13)</title>
-      <link>https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 14 Apr 2026 18:15:47 +0000</pubDate>
-      <eventDate>Fri, 13 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/an-evening-with-shadowgrass.jfif"/>
-    </item>
-    <item>
-      <title>An Evening With: Shadowgrass (Nov 13)</title>
-      <link>https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/an-evening-with-shadowgrass/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 14 Apr 2026 18:15:47 +0000</pubDate>
-      <eventDate>Fri, 13 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/an-evening-with-shadowgrass.jfif"/>
-    </item>
-    <item>
-      <title>Silverada With The Pink Stones (Oct 13)</title>
-      <link>https://lincolntheatre.com/event/silverada-with-the-pink-stones/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/silverada-with-the-pink-stones/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 07 Apr 2026 18:15:44 +0000</pubDate>
-      <eventDate>Tue, 13 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/silverada-with-the-pink-stones.jfif"/>
-    </item>
-    <item>
-      <title>Silverada With The Pink Stones (Oct 13)</title>
-      <link>https://lincolntheatre.com/event/silverada-with-the-pink-stones/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/silverada-with-the-pink-stones/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 07 Apr 2026 18:15:44 +0000</pubDate>
-      <eventDate>Tue, 13 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/04/silverada-with-the-pink-stones.jfif"/>
-    </item>
-    <item>
-      <title>Akeem Ali – The Texture Tour (Nov 21)</title>
-      <link>https://lincolntheatre.com/event/akeem-ali-the-texture-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/akeem-ali-the-texture-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[                            VIP PACKAGE INCLUDES: ONE (1) GENERAL ADMISSION TICKET INCLUDED Invitation to Pre-show Meet & Greet Experience with Akeem Ali Photo and Autograph Opportunity One (1) Collector's Item Early Entry into Venue]]></description>
-      <pubDate>Tue, 31 Mar 2026 18:16:08 +0000</pubDate>
-      <eventDate>Sat, 21 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/03/akeem-ali-the-texture-tour.jfif"/>
-    </item>
-    <item>
-      <title>Akeem Ali – The Texture Tour (Nov 21)</title>
-      <link>https://lincolntheatre.com/event/akeem-ali-the-texture-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/akeem-ali-the-texture-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <description><![CDATA[                            VIP PACKAGE INCLUDES: ONE (1) GENERAL ADMISSION TICKET INCLUDED Invitation to Pre-show Meet & Greet Experience with Akeem Ali Photo and Autograph Opportunity One (1) Collector's Item Early Entry into Venue]]></description>
-      <pubDate>Tue, 31 Mar 2026 18:16:08 +0000</pubDate>
-      <eventDate>Sat, 21 Nov 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/03/akeem-ali-the-texture-tour.jfif"/>
-    </item>
-    <item>
-      <title>Public Image Ltd: This is Not The Last Tour (Oct 06)</title>
+      <title>Public Image Ltd: This is Not The Last Tour (2026-10-06)</title>
       <link>https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Tue, 17 Mar 2026 18:15:48 +0000</pubDate>
-      <eventDate>Tue, 06 Oct 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/03/public-image-ltd-this-is-not-the-last-tour.jfif"/>
+      <guid isPermaLink="true">https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/</guid>
+      <ev:startdate>2026-10-06</ev:startdate>
+      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/public-image-ltd-this-is-not-the-last-tour.jpeg"/>
     </item>
     <item>
-      <title>“Anthem of the Sundays” Feat: Bring out Yer Dead (Sep 27)</title>
-      <link>https://lincolntheatre.com/event/anthem-of-the-sundays-feat-bring-out-yer-dead-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/anthem-of-the-sundays-feat-bring-out-yer-dead-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Fri, 27 Feb 2026 19:15:52 +0000</pubDate>
-      <eventDate>Sun, 27 Sep 2026 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/02/anthem-of-the-sundays-feat-bring-out-yer-dead.jfif"/>
+      <title>American Aquarium Package (Feb 04)</title>
+      <link>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:16:06 +0000</pubDate>
+      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/american-aquarium-package.jpeg"/>
+    </item>
+    <item>
+      <title>American Aquarium Package (Feb 04)</title>
+      <link>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:16:06 +0000</pubDate>
+      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/american-aquarium-package.jpeg"/>
+    </item>
+    <item>
+      <title>THE MOVEMENT With special guest Mike Love (Mar 11)</title>
+      <link>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</guid>
+      <pubDate>Tue, 29 Sep 2026 18:15:42 +0000</pubDate>
+      <eventDate>Thu, 11 Mar 2027 00:00:00 +0000</eventDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/the-movement-with-special-guest-mike-love.jpeg"/>
+    </item>
+    <item>
+      <title>THE MOVEMENT With special guest Mike Love (Mar 11)</title>
+      <link>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</guid>
+      <pubDate>Tue, 29 Sep 2026 18:15:42 +0000</pubDate>
+      <eventDate>Thu, 11 Mar 2027 00:00:00 +0000</eventDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/the-movement-with-special-guest-mike-love.jpeg"/>
+    </item>
+    <item>
+      <title>Nightrain (Guns N Roses Tribute) w/ DAZR (Nov 06)</title>
+      <link>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</guid>
+      <pubDate>Tue, 29 Sep 2026 10:15:44 +0000</pubDate>
+      <eventDate>Fri, 06 Nov 2026 00:00:00 +0000</eventDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/nightrain-guns-n-roses-tribute-w-tba.jpeg"/>
+    </item>
+    <item>
+      <title>Nightrain (Guns N Roses Tribute) w/ DAZR (Nov 06)</title>
+      <link>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</link>
+      <guid>https://lincolntheatre.com/event/nightrain-guns-n-roses-tribute-w-dazr/lincoln-theatre/raleigh-north-carolina/</guid>
+      <pubDate>Tue, 29 Sep 2026 10:15:44 +0000</pubDate>
+      <eventDate>Fri, 06 Nov 2026 00:00:00 +0000</eventDate>
+      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/nightrain-guns-n-roses-tribute-w-tba.jpeg"/>
     </item>
   </channel>
 </rss>
