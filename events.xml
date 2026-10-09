@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 8 Oct 2026 23:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 9 Oct 2026 10:15:45 GMT</lastBuildDate>
     <item>
       <title>THE MOVEMENT With special guest Mike Love (2027-03-11)</title>
       <link>https://lincolntheatre.com/event/the-movement-with-special-guest-mike-love/lincoln-theatre/raleigh-north-carolina/</link>
@@ -361,22 +361,6 @@
       <ev:startdate>2026-10-06</ev:startdate>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/public-image-ltd-this-is-not-the-last-tour.jpeg"/>
-    </item>
-    <item>
-      <title>American Aquarium Package (Feb 04)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:16:06 +0000</pubDate>
-      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/american-aquarium-package.jpeg"/>
-    </item>
-    <item>
-      <title>American Aquarium Package (Feb 04)</title>
-      <link>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid>https://lincolntheatre.com/event/american-aquarium-package-4/lincoln-theatre/raleigh-north-carolina/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:16:06 +0000</pubDate>
-      <eventDate>Thu, 04 Feb 2027 00:00:00 +0000</eventDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/american-aquarium-package.jpeg"/>
     </item>
   </channel>
 </rss>
