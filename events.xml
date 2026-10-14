@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Oct 2026 23:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:15:43 GMT</lastBuildDate>
     <item>
       <title>Earlybirds Club (2026-12-12)</title>
       <link>https://lincolntheatre.com/event/earlybirds-club-4/lincoln-theatre/raleigh-north-carolina/</link>
@@ -370,14 +370,6 @@
       <ev:startdate>2026-10-07</ev:startdate>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/lettuce-cook-tour.jpeg"/>
-    </item>
-    <item>
-      <title>Public Image Ltd: This is Not The Last Tour (2026-10-06)</title>
-      <link>https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/public-image-ltd-this-is-not-the-last-tour/lincoln-theatre/raleigh-north-carolina/</guid>
-      <ev:startdate>2026-10-06</ev:startdate>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/public-image-ltd-this-is-not-the-last-tour.jpeg"/>
     </item>
   </channel>
 </rss>
