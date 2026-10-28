@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:15:58 GMT</lastBuildDate>
     <item>
       <title>Cigarettes @ Sunset w/ TBA (2027-03-21)</title>
       <link>https://lincolntheatre.com/event/cigarettes-sunset-w-tba/lincoln-theatre/raleigh-north-carolina/</link>
@@ -386,14 +386,6 @@
       <ev:startdate>2026-10-21</ev:startdate>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/maddie-zahm.jpeg"/>
-    </item>
-    <item>
-      <title>Jerry’s Middle Finger (2026-10-20)</title>
-      <link>https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/jerrys-middle-finger/lincoln-theatre/raleigh-north-carolina/</guid>
-      <ev:startdate>2026-10-20</ev:startdate>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/jerrys-middle-finger.jpeg"/>
     </item>
   </channel>
 </rss>
