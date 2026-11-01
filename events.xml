@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 1 Nov 2026 11:15:41 GMT</lastBuildDate>
     <item>
       <title>The Connells w/ The Mayflies USA (2026-12-11)</title>
       <link>https://lincolntheatre.com/event/the-connells-w-the-mayflies-usa-2/lincoln-theatre/raleigh-north-carolina/</link>
@@ -360,23 +360,6 @@
       <ev:startdate>2026-10-29</ev:startdate>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/09/traoba-presents-battle-of-the-broker-bands.jpeg"/>
-    </item>
-    <item>
-      <title>BOOGIE T (2026-10-24)</title>
-      <link>https://lincolntheatre.com/event/boogie-t/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/boogie-t/lincoln-theatre/raleigh-north-carolina/</guid>
-      <ev:startdate>2026-10-24</ev:startdate>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/boogie-t.jpeg"/>
-    </item>
-    <item>
-      <title>Delta Rae (2026-10-24)</title>
-      <link>https://lincolntheatre.com/event/delta-rae-at-the-ritz/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/delta-rae-at-the-ritz/</guid>
-      <ev:startdate>2026-10-24</ev:startdate>
-      <description><![CDATA[General Admission Only]]></description>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/06/730608557_1550183659808931_893877235938095373_n.jpg"/>
     </item>
   </channel>
 </rss>
