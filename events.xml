@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 22:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:15:51 GMT</lastBuildDate>
     <item>
       <title>Bring Out Yer Dead (2027-01-16)</title>
       <link>https://lincolntheatre.com/event/bring-out-yer-dead-15/lincoln-theatre/raleigh-north-carolina/</link>
@@ -432,14 +432,6 @@
       <description><![CDATA[w/ Glass Kinsmen]]></description>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/the-record-company.jpeg"/>
-    </item>
-    <item>
-      <title>An evening with: Mountain Grass Unit (2026-11-07)</title>
-      <link>https://lincolntheatre.com/event/an-evening-with-mountain-grass-unit/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/an-evening-with-mountain-grass-unit/lincoln-theatre/raleigh-north-carolina/</guid>
-      <ev:startdate>2026-11-07</ev:startdate>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/an-evening-with-mountain-grass-unit.jpeg"/>
     </item>
   </channel>
 </rss>
