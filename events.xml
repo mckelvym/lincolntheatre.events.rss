@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 22:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:15:50 GMT</lastBuildDate>
     <item>
       <title>Bring Out Yer Dead (2027-01-16)</title>
       <link>https://lincolntheatre.com/event/bring-out-yer-dead-15/lincoln-theatre/raleigh-north-carolina/</link>
@@ -423,15 +423,6 @@
       <description><![CDATA[w/ Wax &amp; DJ Hoppa and Dylan Cotrone]]></description>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/el5x7.jpg"/>
-    </item>
-    <item>
-      <title>The Record Company (2026-11-08)</title>
-      <link>https://lincolntheatre.com/event/the-record-company/lincoln-theatre/raleigh-north-carolina/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/the-record-company/lincoln-theatre/raleigh-north-carolina/</guid>
-      <ev:startdate>2026-11-08</ev:startdate>
-      <description><![CDATA[w/ Glass Kinsmen]]></description>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/the-record-company.jpeg"/>
     </item>
   </channel>
 </rss>
