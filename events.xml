@@ -5,7 +5,7 @@
     <link>https://lincolntheatre.com/events/</link>
     <description>Upcoming events at Lincoln Theatre in Raleigh, NC</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:15:44 GMT</lastBuildDate>
     <item>
       <title>Disciple of The Garden – Tribute to Chris Cornell, Soundgarden, Audioslave (2027-02-18)</title>
       <link>https://lincolntheatre.com/event/disciple-of-the-garden-tribute-to-chris-cornell-soundgarden-audioslave-3/lincoln-theatre/raleigh-north-carolina/</link>
@@ -163,15 +163,6 @@
       <description><![CDATA[The Chain is a nationally touring tribute band that faithfully honors the legendary sounds of Fleetwood Mac. Get ready to relive the magic of Fleetwood Mac and let The Chain take you on a journey through the legendary hits that defined an era.  ]]></description>
       <pubDate>Wed, 11 Nov 2026 22:15:46 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/11/the-chaine-the-fleetwood-mac-experience.jpeg"/>
-    </item>
-    <item>
-      <title>The Elovaters at the Ritz (2026-11-12)</title>
-      <link>https://lincolntheatre.com/event/the-elovaters-at-the-ritz-2/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/the-elovaters-at-the-ritz-2/</guid>
-      <ev:startdate>2026-11-12</ev:startdate>
-      <description><![CDATA[w/ Wax &amp; DJ Hoppa and Dylan Cotrone]]></description>
-      <pubDate>Wed, 11 Nov 2026 19:15:43 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/el5x7.jpg"/>
     </item>
     <item>
       <title>On The Border (The Ultimate Eagles Tribute) (2027-03-12)</title>
@@ -515,15 +506,6 @@
       <ev:startdate>2026-11-13</ev:startdate>
       <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
       <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/an-evening-with-shadowgrass.jpeg"/>
-    </item>
-    <item>
-      <title>The Elovaters at the Ritz (2026-11-12)</title>
-      <link>https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</link>
-      <guid isPermaLink="true">https://lincolntheatre.com/event/the-elovaters-at-the-ritz/</guid>
-      <ev:startdate>2026-11-12</ev:startdate>
-      <description><![CDATA[w/ Wax &amp; DJ Hoppa and Dylan Cotrone]]></description>
-      <pubDate>Mon, 05 Oct 2026 10:16:54 +0000</pubDate>
-      <enclosure type="image/jpeg" url="https://lincolntheatre.com/wp-content/uploads/2026/08/el5x7.jpg"/>
     </item>
   </channel>
 </rss>
